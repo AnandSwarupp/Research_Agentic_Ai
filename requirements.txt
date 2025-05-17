@@ -1,0 +1,17 @@
+streamlit 
+openai 
+requests 
+beautifulsoup4 
+duckduckgo_search
+langchain 
+faiss-cpu 
+tiktoken
+langchain-community
+python-dotenv
+bs4
+transformers 
+sentencepiece
+torch==2.3.0
+llama-cpp-python
+
+
